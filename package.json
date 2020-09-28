@@ -1,0 +1,19 @@
+{
+  "name": "jseditor",
+  "version": "1.0.0",
+  "description": "This is a Java Script base Rich Text Editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "test server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raktim123/JSEditor.git"
+  },
+  "author": "Raktim Banerjee, Susmita Sahoo, Railee Bose, Nabonita Santra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Raktim123/JSEditor/issues"
+  },
+  "homepage": "https://github.com/Raktim123/JSEditor#readme"
+}
