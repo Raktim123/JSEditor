@@ -4,7 +4,7 @@
   "description": "This is a Java Script base Rich Text Editor",
   "main": "index.js",
   "scripts": {
-    "test": "test server.js"
+    "test": "nodemon ./server/server.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/Raktim123/JSEditor/issues"
   },
-  "homepage": "https://github.com/Raktim123/JSEditor#readme"
+  "homepage": "https://github.com/Raktim123/JSEditor#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
 }
